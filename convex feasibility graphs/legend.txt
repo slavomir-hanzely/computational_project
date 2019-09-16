@@ -1,0 +1,7 @@
+X axis shows iteration
+Y axis shows distance (logarithmic scale)
+
+Teoretical convergence is orange line.
+Distance from projection is blue line.
+
+Best omegas, that could be chosen (for every concrete x_i) is drawn as grey dot.
